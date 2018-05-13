@@ -1,0 +1,1 @@
+# cpp.zadacha1.2
