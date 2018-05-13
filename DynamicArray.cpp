@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cmath>
+//#include <cmath>
 #include "DynamicArray.h"
 
 DynamicArray::DynamicArray(): size(100), sizeCapacity(20) {
